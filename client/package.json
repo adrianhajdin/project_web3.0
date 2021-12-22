@@ -1,0 +1,31 @@
+{
+  "name": "wave-app",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@tailwindcss/forms": "^0.3.4",
+    "autoprefixer": "^10.4.0",
+    "eth-revert-reason": "^1.0.3",
+    "ethers": "^5.5.1",
+    "framer-motion": "^5.3.1",
+    "postcss": "^8.3.11",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
+    "react-icons": "^4.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.0.0",
+    "eslint": "^8.4.1",
+    "eslint-config-airbnb": "^19.0.2",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-react": "^7.27.1",
+    "eslint-plugin-react-hooks": "^4.3.0",
+    "tailwindcss": "^2.2.19",
+    "vite": "^2.6.4"
+  }
+}

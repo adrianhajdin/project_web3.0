@@ -93,6 +93,7 @@ export const TransactionsProvider = ({ children }) => {
       const accounts = await ethereum.request({ method: "eth_requestAccounts", });
 
       setCurrentAccount(accounts[0]);
+      window.location.reload();
     } catch (error) {
       console.log(error);
 
@@ -128,6 +129,7 @@ export const TransactionsProvider = ({ children }) => {
         const transactionsCount = await transactionsContract.getTransactionCount();
 
         setTransactionCount(transactionsCount.toNumber());
+        window.location.reload();
       } else {
         console.log("No ethereum object");
       }

@@ -4,7 +4,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy_build": "vite build --base=/project_web3.0/"
   },
   "dependencies": {
     "ethers": "^5.5.4",

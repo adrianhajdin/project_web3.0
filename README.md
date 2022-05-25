@@ -12,4 +12,4 @@ E-mail - enyelsequeira1994@gmail.com
 Want me to cover the project you've created? Send me an e-mail 👌
 
 ## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://jsmasterypro.com/newsletter
+New major projects coming soon, subscribe to the mailing list to stay up to date https://resource.jsmasterypro.com/newsletter

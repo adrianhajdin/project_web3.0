@@ -43,13 +43,13 @@ const Services = () => (
           color="bg-[#8945F8]"
           title="Best exchange rates"
           icon={<BiSearchAlt fontSize={21} className="text-white" />}
-          subtitle="Security is guranteed. We always maintain privacy and maintain the quality of our products"
+          subtitle="Exchange rates are the best. We use minimum gas fee and provide trustworthy transactions"
         />
         <ServiceCard
           color="bg-[#F84550]"
           title="Fastest transactions"
           icon={<RiHeart2Fill fontSize={21} className="text-white" />}
-          subtitle="Security is guranteed. We always maintain privacy and maintain the quality of our products"
+          subtitle="Fastest Transactions will happen. We have speedy, secure and error-free transactions as well as connectivity within accounts"
         />
       </div>
     </div>

@@ -1,7 +1,7 @@
 # Krypt - Web 3.0 Blockchain Application
 ![Krypt](https://i.ibb.co/DVF4tNW/image.png)
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
+### [🌟 Become a top 1% Next.js developer in only one course](https://jsmastery.pro/next15)
 ### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
 
 ## Introduction

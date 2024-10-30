@@ -1,15 +1,16 @@
-# Basic Sample Hardhat Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+## 工具网站
 
-Try running some of the following tasks:
+* <https://www.rapidtables.com/convert/number/hex-to-decimal.html>
+* <https://eth-converter.com/>
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+
+## 视频信息
+
+* [视频链接](https://www.youtube.com/watch?v=Wn_Kb3MR_cU)
+* [源码链接](https://github.com/adrianhajdin/project_web3.0)
+
+
+## 部署效果访问地址
+
+<https://crazygit.wiseturtles.com/project_web3.0/>

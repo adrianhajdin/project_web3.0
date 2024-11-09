@@ -15,3 +15,6 @@ E-mail - enyelsequeira1994@gmail.com
 Want me to cover the project you've created? Send me an e-mail 👌
 
 ## Launch your development career with project-based coaching - https://www.jsmastery.pro
+
+## Localizations:
+[Turkish](https://github.com/adrianhajdin/project_web3.0/blob/main/README.md) Translation
